@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+There are not a lot of resources dedicated specifically to learning Thai vowels.
 
-You can use the [editor on GitHub](https://github.com/thaivowels/Support/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I thought it would be useful to create a mobile reference app for other Thai learners.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app combines different features of the vowels such as their pronunciations, their written forms, and words that use them.
 
-### Markdown
+Because of the quarantine, I found the time to finish this app and launch it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hope this can be a helpful tool for you in learning Thai.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thaivowels/Support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I’d love to improve the app - if you have any feedback here is our contact info: thaivowels@gmail.com .
