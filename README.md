@@ -1,6 +1,4 @@
-There are not a lot of resources dedicated specifically to learning Thai vowels.
-
-I thought it would be useful to create a mobile reference app for other Thai learners.
+I thought it would be useful to create a mobile reference app for other Thai learners, dedicated specifically to learning Thai vowels.
 
 This app combines different features of the vowels such as their pronunciations, their written forms, and words that use them.
 
